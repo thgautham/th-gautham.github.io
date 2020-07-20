@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: portfolio
 permalink: /portfolio/
 title: "Portfolio"
 author_profile: true
