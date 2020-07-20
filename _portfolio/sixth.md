@@ -1,5 +1,5 @@
 ---
-title: "Portfolio-1"
+title: "Portfolio-6"
 excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
 header:
   image: /images/space-background.jpg
