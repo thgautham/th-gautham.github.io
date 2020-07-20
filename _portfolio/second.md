@@ -3,6 +3,7 @@ title: "Portfolio"
 excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
 header:
   image: /images/space-background.jpg
+  teaser: images/space-background.jpg
 sidebar:
   - title: "Role"
     image: /images/bio-pic.jpg
