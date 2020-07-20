@@ -1,5 +1,4 @@
 ---
-title: "Splash Page"
 layout: splash
 permalink: /splash-page/
 header:
