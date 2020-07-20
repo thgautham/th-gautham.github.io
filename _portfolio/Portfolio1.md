@@ -1,5 +1,5 @@
 ---
-title: "Air Flow Pattern and Path Flow Simulation of Airborne Particulate Contaminants in a High-Density Data Center Utilizing Airside Economization"
+title: "Air Flow Pattern and Path Flow Simulation "
 excerpt: "Air flow pattern and path flow simulation, air flow pattern and path flow simulation"
 header:
   image: /images/space-background.jpg
@@ -9,7 +9,6 @@ sidebar:
     image: /images/bio-pic.jpg
     image_alt: "logo"
     text: "Graduate Research Assistant, EMNSPC Lab"
-    text: "UTA, TX
   - title: "Responsibilities"
     text: "Data cleaning, data wrangling, process analysis"
 gallery:
