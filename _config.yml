@@ -287,10 +287,4 @@ defaults:
       layout: single
       author_profile: true
       # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: splash
-      author_profile: true
      

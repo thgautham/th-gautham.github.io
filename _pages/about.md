@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/sf-bridge.jpg"
+  image: "/images/space-background.jpg"
 ---
 
 Hi! My name is Gautham Thirunavakkarasu.
