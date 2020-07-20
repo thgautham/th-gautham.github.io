@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Portfolio"
+    url: /work/
   - title: "Resume"
     url: /images/resume.pdf
   # - title: "About"
