@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /work/
-  - title: "Resume"
+  - title: "Splash Page"
     url: /splash-page/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
