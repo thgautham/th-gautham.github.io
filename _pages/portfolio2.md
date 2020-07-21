@@ -11,7 +11,8 @@ header:
       url: "provide resume link" 
 excerpt: "You are encouraged to explore"
 intro:
-  -excerpt: 'The discussions here are generally non-technical; for more research details, related information can be found in my resume.'
+  - excerpt: 'The discussions here are generally non-technical; for more research details, related information can be found in my resume.'
+
 feature_row2:
   - image_path: /images/chip-image.jpg
     alt: "Predictive modeling"
