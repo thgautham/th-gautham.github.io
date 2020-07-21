@@ -17,14 +17,7 @@ sidebar:
     text: "Graduate Research Assistant, EMNSPC Lab, UTA"
   - title: "Subject Area"
     text: "Flow (dynamics), Predictive Modelling, Flow Simulation"
-
 gallery:
-  - url: /images/poster.jpg
-    image_path: images/poster.jpg
-    alt: "Path flow simulation of particulate contaminants."
-    title: "Path flow simulation of particulate contaminants."
-
-gallery2:
   - url: /images/part-contaminants.jpg
     image_path: images/part-contaminants.jpg
     alt: "Particulate Contaminants"
@@ -46,12 +39,11 @@ Conference: ASME 2018 International Technical Conference and Exhibition on Packa
 ## Summary 
 The air flow path and its modelling have progressed signif-icantly over the last two decades.  
 
-{% include gallery caption="Path flow simulation of particulate contaminants." %}
 
 ## Role of CFD Simulation
 CFD modelling is the process of representing a fluid flowproblem  by  mathematical  equations  based  on  the  fundamentallaws of physics, and solving those equations to predict the vari-ation of velocity, pressure and temperature, and other variablessuch as turbulence parameters and concentrations which are dis-ussed by Jone[10].  Eulerian or Lagrangian approaches are oneof the most popular methods for flow visualization and particletracking.   The difference in both the methods is that the Eule-rian method treats the particles as continuum and the Lagrangianmethods focuses on the particle frame of reference, treating eachparticle individually. T 
 
-{% include gallery id="gallery2" caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 ## Simulation Methodology
 The CFD solver of 6SigmaRoom is a powerful and easy touse tool with a myriad of post processing options available foraccurately simulating the flow conditions.   
