@@ -1,5 +1,5 @@
 ---
-title: "Certifications"
+title: "Portfolio"
 layout: splash
 permalink: /splash-page/
 header:
@@ -12,8 +12,8 @@ header:
 excerpt: "You are encouraged to explore"
 intro:
   -excerpt: "The discussions here are generally non-technical; for more research details, related information can be found in my resume."
-feature_row2:
-  - image_path: /images/chip-image.jpg
+feature_row:
+  - image_path: /images/conc-plot-1m.jpg
     alt: "Predictive modeling"
     title: "Predictive Modeling"
     excerpt: 'Air Flow Pattern and Path Flow Simulation of Airborne Particulate Contaminants in a High-Density Data Center Utilizing Airside Economization '
