@@ -3,6 +3,7 @@ title: "About"
 permalink: /about/
 header:
   image: "/images/mountain-image-2.jpg"
+  caption: "Photo credit: [**Unsplash.com**](https://unsplash.com)"
 ---
 
 Hi! My name is Gautham Thirunavakkarasu.
