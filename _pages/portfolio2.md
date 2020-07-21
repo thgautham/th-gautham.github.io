@@ -12,8 +12,15 @@ header:
 excerpt: "You are encouraged to explore"
 intro:
   - excerpt: 'If you're curious about technical skills I've glossed over, feel free to contact me.'
-
 feature_row2:
+  - image_path: /images/chip-image.jpg
+    alt: "Predictive modeling"
+    title: "Predictive Modeling"
+    excerpt: 'Air Flow Pattern and Path Flow Simulation of Airborne Particulate Contaminants in a High-Density Data Center Utilizing Airside Economization '
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
   - image_path: /images/chip-image.jpg
     alt: "Predictive modeling"
     title: "Predictive Modeling"
