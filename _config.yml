@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gautham's Notebook"
+title                    : "GT's Notebook"
 title_separator          : "-"
-subtitle                 : "Personal scratchpad"
+subtitle                 : #"Data Scientist"
 name                     : &name "Gautham Thirunavakkarasu" # &name is a YAML anchor which can be *referenced later
 description              : &description "A personal scratchpad for all things I find interest in - data, maths and science."
 url                      : # https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -103,9 +103,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Gth1205"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/mmistakes"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ga-2tam/"
 
 
 # Site Footer
@@ -118,8 +118,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Gth1205"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-     # url: "https://instagram.com/mmistakes"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ga-2tam/"
 
 
 # Reading Files
@@ -219,8 +219,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
-
+      author_profile: true
 
 # Sass/SCSS
 sass:
