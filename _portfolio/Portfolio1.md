@@ -21,8 +21,8 @@ sidebar:
 gallery:
   - url: /images/poster.jpg
     image_path: images/poster.jpg
-    alt: "Paper No: IPACK2018-8436, V001T02A011; 12 pages"
-    title: "Paper No: IPACK2018-8436, V001T02A011; 12 pages"
+    alt: "Path flow simulation of particulate contaminants."
+    title: "Path flow simulation of particulate contaminants."
 
 gallery2:
   - url: /images/part-contaminants.jpg
@@ -46,7 +46,7 @@ Conference: ASME 2018 International Technical Conference and Exhibition on Packa
 ## Summary 
 The air flow path and its modelling have progressed signif-icantly over the last two decades.  
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Path flow simulation of particulate contaminants." %}
 
 ## Role of CFD Simulation
 CFD modelling is the process of representing a fluid flowproblem  by  mathematical  equations  based  on  the  fundamentallaws of physics, and solving those equations to predict the vari-ation of velocity, pressure and temperature, and other variablessuch as turbulence parameters and concentrations which are dis-ussed by Jone[10].  Eulerian or Lagrangian approaches are oneof the most popular methods for flow visualization and particletracking.   The difference in both the methods is that the Eule-rian method treats the particles as continuum and the Lagrangianmethods focuses on the particle frame of reference, treating eachparticle individually. T 
