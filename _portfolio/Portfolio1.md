@@ -1,6 +1,12 @@
 ---
 title: "Path Flow Simulation of  Particulate Contaminants"
 excerpt: "Air Flow Pattern and Path Flow Simulation of Airborne Particulate Contaminants in a High-Density Data Center Utilizing Airside Economization "
+tags:
+  - portfolio
+  - predictive modeling
+  - thesis
+toc: true
+toc_sticky: true
 header:
   overlay_image: /images/grayscale-1.jpg
   overlay_filter: 0.5
@@ -9,12 +15,14 @@ header:
     - label: "Paper Link"
       url: "https://doi.org/10.1115/IPACK2018-8436"
 sidebar:
-  - title: "Role"
+  - title: "Gautham Thirunavakkarasu"
     image: /images/headshot.jpg
     image_alt: "logo"
-    text: "Graduate Research Assistant, EMNSPC Lab"
-  - title: "Responsibilities"
-    text: "Data cleaning, data wrangling, process analysis"
+    text: "Graduate Research Assistant, EMNSPC Lab, UTA"
+  - title: "Subject Area"
+    text: "Flow (dynamics), Predictive Modelling, Flow Simulation"
+  - title: "Conference"
+
 gallery:
   - url: /images/poster.jpg
     image_path: images/poster.jpg
