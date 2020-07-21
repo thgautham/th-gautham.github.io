@@ -1,10 +1,6 @@
 ---
 title: "Path Flow Simulation of  Particulate Contaminants"
 excerpt: "Air Flow Pattern and Path Flow Simulation of Airborne Particulate Contaminants in a High-Density Data Center Utilizing Airside Economization "
-tags:
-  - portfolio
-  - predictive modeling
-  - thesis
 toc: true
 toc_sticky: true
 header:
@@ -25,13 +21,18 @@ sidebar:
 gallery:
   - url: /images/poster.jpg
     image_path: images/poster.jpg
-    alt: " image 1"
-  - url: /images/sf-bridge.jpg
-    image_path: images/sf-bridge.jpg
-    alt: "placeholder image 2"
-  - url: /images/nebula.jpg
-    image_path: images/nebula.jpg
-    alt: "placeholder image 3"
+    alt: "Paper No: IPACK2018-8436, V001T02A011; 12 pages"
+
+gallery2:
+  - url: /images/part-contaminants.jpg
+    image_path: images/part-contaminants.jpg
+    alt: "Particulate Contaminants"
+  - url: /images/trajectory-plot-1m.jpg
+    image_path: images/trajectory-plot-1m.jpg
+    alt: "Streamline trajectory for 1 micron PC"
+  - url: /images/conc-plot-1m.jpg
+    image_path: images/conc-plot-1m.jpg
+    alt: "Concentration plot for 1 micron PC"
 ---
 
 August 2018
@@ -41,12 +42,12 @@ Conference: ASME 2018 International Technical Conference and Exhibition on Packa
 ## Summary 
 The air flow path and its modelling have progressed signif-icantly over the last two decades.  
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images/poster.jpg){: .align-center}
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 ## Role of CFD Simulation
 CFD modelling is the process of representing a fluid flowproblem  by  mathematical  equations  based  on  the  fundamentallaws of physics, and solving those equations to predict the vari-ation of velocity, pressure and temperature, and other variablessuch as turbulence parameters and concentrations which are dis-ussed by Jone[10].  Eulerian or Lagrangian approaches are oneof the most popular methods for flow visualization and particletracking.   The difference in both the methods is that the Eule-rian method treats the particles as continuum and the Lagrangianmethods focuses on the particle frame of reference, treating eachparticle individually. T 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery2 caption="This is a sample gallery to go along with this case study." %}
 
 ## Simulation Methodology
 The CFD solver of 6SigmaRoom is a powerful and easy touse tool with a myriad of post processing options available foraccurately simulating the flow conditions.   
