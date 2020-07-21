@@ -11,7 +11,7 @@ header:
       url: "provide resume link" 
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'My interests focus on predictive analytics and its applications in bringing about digital business transformations (DBT) to help organizations understand and leverage their quantitative infomration to make definitive business decisions. Here you'll find summaries of the major projects I've done over the year, which are representative of my skills and interests.If you're curious about technical skills I've glossed over, feel free to contact me.'
 feature_row2:
   - image_path: /images/chip-image.jpg
     alt: "Predictive modeling"
