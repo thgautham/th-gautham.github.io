@@ -11,7 +11,7 @@ header:
       url: "provide resume link" 
 excerpt: "You are encouraged to explore"
 intro:
-  - excerpt: 'My interests focus on predictive analytics and its applications in bringing about digital business transformations (DBT) to help organizations understand and leverage their quantitative infomration to make definitive business decisions.If you're curious about technical skills I've glossed over, feel free to contact me.'
+  - excerpt: 'If you're curious about technical skills I've glossed over, feel free to contact me.'
 
 feature_row2:
   - image_path: /images/chip-image.jpg
