@@ -8,6 +8,7 @@ classes: wide
 author_profile: false
 header:
   image: "/images/space-background.jpg"
+  caption: "Photo credit: [**Unsplash.com**](https://unsplash.com)"
 ---
 
 My interests focus on predictive analytics and its applications in bringing about digital business transformations (DBT) to help organizations understand and leverage their quantitative infomration to make definitive business decisions. After completing my thesis on predicting concentration surfaces in environmental friendly computing centers, I began working as a technology consultant with Publicis Sapient. 
