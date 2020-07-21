@@ -3,15 +3,20 @@ title: "Certifications"
 layout: splash
 permalink: /splash-page/
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: /images/mountain-image-1.jpg
-excerpt: "My Certifications"
+  actions:
+    - label: "Resume"
+      url: "provide resume link" 
+excerpt: "You are encouraged to explore"
 intro:
-  -excerpt: "List of my certifications"
-
-feature_row:
-  - image_path: /images/poster.jpg
-    alt: "Img 1"
-    title: "1 Img"
+  -excerpt: "The discussions here are generally non-technical; for more research details, related information can be found in my resume."
+feature_row2:
+  - image_path: /images/chip-image.jpg
+    alt: "Predictive modeling"
+    title: "Predictive Modeling"
+    excerpt: 'Air Flow Pattern and Path Flow Simulation of Airborne Particulate Contaminants in a High-Density Data Center Utilizing Airside Economization '
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
