@@ -15,7 +15,7 @@ header:
 
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/GT_CSM_Certificate-1.png" alt="" class="full">
+<img src="{{ site.url }}{{ site.baseurl }}/images/CSM-1.png" alt="" class="full">
 
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll ne
 
