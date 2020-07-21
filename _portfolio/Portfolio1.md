@@ -1,19 +1,23 @@
 ---
-title: "Air Flow Pattern and Path Flow Simulation of Airborne Particulate Contaminants in a High-Density Data Center Utilizing Airside Economization "
-excerpt: "Air flow pattern and path flow simulation, air flow pattern and path flow simulation"
+title: "Path Flow Simulation of  Particulate Contaminants"
+excerpt: "Air Flow Pattern and Path Flow Simulation of Airborne Particulate Contaminants in a High-Density Data Center Utilizing Airside Economization "
 header:
-  image: /images/space-background.jpg
-  teaser: images/space-background.jpg
+  overlay_image: /images/grayscale-1.jpg
+  overlay_filter: 0.5
+  teaser: images/chip-image.jpg
+  actions:
+    - label: "Paper Link"
+      url: "https://doi.org/10.1115/IPACK2018-8436"
 sidebar:
   - title: "Role"
-    image: /images/bio-pic.jpg
+    image: /images/headshot.jpg
     image_alt: "logo"
     text: "Graduate Research Assistant, EMNSPC Lab"
   - title: "Responsibilities"
     text: "Data cleaning, data wrangling, process analysis"
 gallery:
-  - url: /images/nebula.jpg
-    image_path: images/nebula.jpg
+  - url: /images/poster.jpg
+    image_path: images/poster.jpg
     alt: " image 1"
   - url: /images/sf-bridge.jpg
     image_path: images/sf-bridge.jpg
@@ -29,6 +33,8 @@ Conference: ASME 2018 International Technical Conference and Exhibition on Packa
 
 Summary 
 The air flow path and its modelling have progressed signif-icantly over the last two decades.  
+
+![image-center]({{ site.url }}{{ site.baseurl }}/images/poster.jpg){: .align-center}
 
 Role of CFD Simulation
 CFD modelling is the process of representing a fluid flowproblem  by  mathematical  equations  based  on  the  fundamentallaws of physics, and solving those equations to predict the vari-ation of velocity, pressure and temperature, and other variablessuch as turbulence parameters and concentrations which are dis-ussed by Jone[10].  Eulerian or Lagrangian approaches are oneof the most popular methods for flow visualization and particletracking.   The difference in both the methods is that the Eule-rian method treats the particles as continuum and the Lagrangianmethods focuses on the particle frame of reference, treating eachparticle individually. T 
