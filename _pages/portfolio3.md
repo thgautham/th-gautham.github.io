@@ -16,7 +16,7 @@ feature_row2:
     alt: "Flow simulation of Particulates"
     title: "Path Flow simulation"
     excerpt: 'Conference: ASME 2018 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems'
-    url: "#test-link"
+    url: "/assets/docs/thesis"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
