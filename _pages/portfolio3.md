@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "For more details on all the things I'm interested in-mostly maths, visualization and practices, take a look at my resume."
 intro: 
-  - excerpt: 'Nullam Here you will find summaries of my major projects, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin fauate felis id sollicitudin. Centered with'
+  - excerpt: 'Here you will find summaries of my major projects I've done over the years,  Quis nulla, netus tempor in diam gravida tincidunt, *proin fauate felis id sollicitudin. Centered with'
 feature_row:
   - image_path: images/chip-image.jpg
     alt: "placeholder image 1"
