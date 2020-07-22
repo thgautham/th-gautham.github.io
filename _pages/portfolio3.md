@@ -1,14 +1,13 @@
 ---
-title: "Splash Page"
+title: "Portfolio"
 layout: splash
-permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
+permalink: /portfolio/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/space-background.jpg
   actions:
-    - label: "Download"
+    - label: "Resume"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
