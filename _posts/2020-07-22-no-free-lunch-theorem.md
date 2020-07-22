@@ -4,8 +4,7 @@ date: 2020-07-22
 tags: [model, no free lunch, basic]
 header: 
     image: "/images/mountain-image-3"
-    caption: "Photo credits: *Unsplash.com*"[https://unsplash.com/]
-excerpt: Quick read to help frame the machine learning modelling problem.
+    excerpt: "Quick read to help frame the machine learning modelling problem."
 ---
 
 ## No Free Lunch Theorem
