@@ -3,7 +3,7 @@ title: "No Free Lunch Theorem"
 date: 2020-07-22
 tags: [model, no free lunch, basic]
 header: 
-    image: "images/mountain-image-3"
+    image: "images/mountain-image-3.jpg"
     excerpt: "Quick read to help frame the machine learning modelling problem."
 ---
 
