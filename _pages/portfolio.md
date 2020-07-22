@@ -20,7 +20,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /images/CSM-1.png
+  - image_path: /images/agile.jpg
     alt: "placeholder image 2"
     title: "Certified Scrum Master"
     excerpt: 'Agile Teamwork can really help to minimize handoffs using sequential development process'
