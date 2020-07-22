@@ -1,12 +1,13 @@
 ---
 title: "No Free Lunch Theorem"
-date: 2020-07-01
+date: 2020-07-22
 tags: [model, no free lunch, basic]
 header: 
     image: "/images/mountain-image-3"
     caption: "Photo credits: *Unsplash.com*"[https://unsplash.com/]
 excerpt: Quick read to help frame the machine learning modelling problem.
 ---
+
 ## No Free Lunch Theorem
 
 A model is a simplified version of theobservations. The simplifications are meant to discard the superfluous details that are unlikely to generalize to new instances. To decide what data to discard and what data to keep, we must make assumptions. For example, a linear model makes the assumption that the data is fundamentally linear and that the distance between the instances and straight line is just noise, which can safely be ignored.
