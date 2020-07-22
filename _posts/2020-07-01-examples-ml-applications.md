@@ -2,8 +2,6 @@
 title: "Examples of ML applications"
 date: 2020-07-01
 tags: [data wrangling, data science, messy data]
-header:
-  image: "images/space-background.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 ---
 
