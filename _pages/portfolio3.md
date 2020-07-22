@@ -10,9 +10,9 @@ header:
     - label: "Resume"
       url: "/assets/docs/resume.pdf"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "BFor more details on all the things I'm interested in-mostly maths, visualization and practices, take a look at my resume."
+excerpt: "For more details on all the things I'm interested in-mostly maths, visualization and practices, take a look at my resume."
 intro: 
-  - excerpt: 'Nullam Here you'll find summaries of the major projects and accomplishments of mine over the years, which are representaitve of my skills. Centered with `type="center"`'
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: images/chip-image.jpg
     alt: "placeholder image 1"
