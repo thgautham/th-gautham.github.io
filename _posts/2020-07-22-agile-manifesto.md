@@ -5,7 +5,7 @@ tags: [Agile, scrum]
 header: 
     image: "/images/mountain-image-3"
     caption: "Photo credits: *Unsplash.com*"[https://unsplash.com/]
-excerpt: My view on the Agile Manifesto and an easy-to-follow guide I have used as a refresher on the agile methodology.
+excerpt: "My view on the Agile Manifesto and an easy-to-follow guide I have used as a refresher on the agile methodology."
 ---
 
 ## Twelve Principles behind the Agile Manifesto
