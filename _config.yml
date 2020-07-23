@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.19.3"
 
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -47,7 +47,7 @@ atom_feed:
 
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : # algolia # lunr (default), algolia
+search_provider          : lunr # algolia # lunr (default), algolia
 algolia:
   application_id         : #QB6HVGBSBA # YOUR_APPLICATION_ID
   index_name             : #minimal_mistakes # YOUR_INDEX_NAME
@@ -204,7 +204,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
