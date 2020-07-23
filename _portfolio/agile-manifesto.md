@@ -1,7 +1,6 @@
 ---
 title: "Twelve Principles behind the Agile Manifesto"
 date: 2020-07-22
-tags: [Agile, scrum]
 header: 
     image: "/images/mountain-image-3"
     caption: "Photo credits: *Unsplash.com*"[https://unsplash.com/]

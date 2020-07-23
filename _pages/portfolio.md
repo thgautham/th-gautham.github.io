@@ -24,7 +24,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Certified Scrum Master"
     excerpt: 'Agile Teamwork can really help to minimize handoffs using sequential development process'
-    url: "#test-link"
+    url: "/portfolio/agile-manifesto"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
