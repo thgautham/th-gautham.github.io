@@ -1,7 +1,7 @@
 ---
 title: Scrum Methodology
 layout: collection
-permalink: /portfolio/
+permalink: /agile/
 collection: portfolio
 entries_layout: grid
 classes: wide
