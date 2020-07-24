@@ -220,6 +220,15 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _agile
+  - scope:
+      path: ""
+      type: "_agile"
+    values:
+      layout: single
+      author_profile: false
+      share: false
+  
 
 # Sass/SCSS
 sass:
