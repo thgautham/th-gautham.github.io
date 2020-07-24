@@ -4,16 +4,17 @@ excerpt: "When your team is struggling, turn on the bat signal"
 header:
     image: "/images/mountain-image-3"
     caption: "Photo credits: *Unsplash.com*"[https://unsplash.com/]
+    teaser: images/bio-pic.jpg
 sidebar:
-  - title: "Role"
+  - title: "Scrum Master"
     image: http://placehold.it/350x250
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /images/CSM-1.jpg
+    image_path: images/CSM-1.jpg
     alt: "placeholder image 1"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
