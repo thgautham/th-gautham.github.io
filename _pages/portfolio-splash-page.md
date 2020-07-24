@@ -24,7 +24,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Certified Scrum Master"
     excerpt: 'My view on the Agile Manifesto and an easy-to-follow guide I have used as a refresher on the agile methodology.'
-    url: /recipes/
+    url: "/portfolio/agile"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
