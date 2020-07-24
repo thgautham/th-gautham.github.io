@@ -191,7 +191,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  pets:
+  science:
     output: true
     permalink: /:collection/:path/  
 
@@ -231,10 +231,10 @@ defaults:
       layout: single
       author_profile: false
       share: false
-  # _recipes
+  # _science
   - scope:
       path: ""
-      type: recipes
+      type: science
     values:
       layout: single
       author_profile: true
