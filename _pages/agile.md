@@ -1,5 +1,5 @@
 ---
-title: Scrum Methodology
+title: Scrum 
 layout: collection
 permalink: /agile/
 collection: agile
