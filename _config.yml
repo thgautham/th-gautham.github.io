@@ -185,7 +185,7 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
-  pets:
+  agile:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -223,7 +223,7 @@ defaults:
   # _agile
   - scope:
       path: ""
-      type: "_agile"
+      type: agile
     values:
       layout: single
       author_profile: false
