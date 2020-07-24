@@ -1,1 +1,1 @@
-Source for th-gautham.github.io, hosted on Github pages. This funcstions as an online portfolio, as well as place for me to write up my interests.
+Source for __*th-gautham.github.io*__, hosted on Github pages. This functions as an online portfolio, as well as place for me to write up my interests.
