@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Scrum Methodology
 layout: collection
 permalink: /portfolio/
 collection: portfolio

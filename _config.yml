@@ -203,7 +203,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: false
       related: true
   # _pages
