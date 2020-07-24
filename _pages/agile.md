@@ -1,5 +1,5 @@
 ---
-title: Scrum 
+title: Scrum Methodology
 layout: collection
 permalink: /agile/
 collection: agile
@@ -10,10 +10,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/space-background.jpg
   actions:
-    - label: "Resume"
+    - label: "Scrum Master Certification"
       url: "/images/CSM-1.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "My scrum master certification"
+excerpt: "A collection of my tidbits for using scrum and agile."
 ---
 
-A collection of my tidbits for using scrum and agile.
+
