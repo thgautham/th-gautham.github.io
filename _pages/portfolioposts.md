@@ -2,7 +2,7 @@
 title: Scrum Methodology
 layout: collection
 permalink: /agile/
-collection: portfolio
+collection: agile
 entries_layout: grid
 classes: wide
 ---
