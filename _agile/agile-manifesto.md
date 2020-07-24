@@ -1,10 +1,6 @@
 ---
 title: "Twelve Principles behind the Agile Manifesto"
 excerpt: "My view on the Agile Manifesto and an easy-to-follow guide I have used as a refresher on the agile methodology."
-header: 
-    image: "/images/mountain-image-3"
-    caption: "Photo credits: *Unsplash.com*"[https://unsplash.com/]
-    teaser: images/bio-pic.jpg
 ---
 
 ## Twelve Principles behind the Agile Manifesto
