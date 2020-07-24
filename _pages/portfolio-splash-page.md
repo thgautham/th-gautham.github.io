@@ -8,7 +8,7 @@ header:
   overlay_image: /images/space-background.jpg
   actions:
     - label: "Resume"
-      url: /assets/docs/resume.pdf
+      url: "/assets/docs/resume.pdf"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "For more details on all the things I'm interested in-mostly maths, visualization and practices, take a look at my resume."
 feature_row2:
@@ -32,7 +32,7 @@ feature_row4:
     alt: "placeholder image 2"
     title: "Data Science Foundations"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    url: /science/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
