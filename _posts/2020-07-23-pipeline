@@ -1,5 +1,6 @@
 ---
 title: "Pipelines"
+date: 2020-07-23
 excerpt: "Sequence of data processing components in a Machine Learning system."
 header:
     image: "/images/mountain-image-3.jpg"
