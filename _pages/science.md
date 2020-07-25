@@ -1,5 +1,5 @@
 ---
-title: Scrum Methodology
+title: Data Science Projects
 layout: collection
 permalink: /science/
 collection: science

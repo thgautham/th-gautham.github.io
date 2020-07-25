@@ -31,7 +31,7 @@ feature_row4:
   - image_path: /images/puzzle.jpg
     alt: "placeholder image 2"
     title: "Data Science Foundations"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    excerpt: ' A collection of the data analysis projects I have worked on in the past.'
     url: /science/
     btn_label: "Read More"
     btn_class: "btn--primary"
