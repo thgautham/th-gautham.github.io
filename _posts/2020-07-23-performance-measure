@@ -1,11 +1,13 @@
 ---
-title: "Performance Measure"
-date: 2020-07-23
-excerpt: "A Parameter that gives an estimate of the error in the predictions"
+title: "Performance measure"
+date: 2020-07-22
+tags: [data wrangling, data science, messy data]
 header:
-    image: "/images/mountain-image-3.jpg"
-    teaser: images/chip-image.jpg
+  image: "/images/mountain-image-3.jpg"
+  caption: "Photo credit: [**Unsplash.com**](https://unsplash.com)"
+excerpt: "A parameter that gives an estimate of the error in the predictions."
 ---
+
 A typical performance measure for regression problems is the Root Mean Square Error (RMSE).
 There is also Mean absolute error (MAE).
 

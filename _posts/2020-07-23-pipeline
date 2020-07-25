@@ -1,11 +1,13 @@
 ---
 title: "Pipelines"
 date: 2020-07-23
-excerpt: "Sequence of data processing components in a Machine Learning system."
+tags: [pipeline, data science, machine learning system, tidbit]
 header:
-    image: "/images/mountain-image-3.jpg"
-    teaser: images/chip-image.jpg
+  image: "/images/mountain-image-3.jpg"
+  caption: "Photo credit: [**Unsplash.com**](https://unsplash.com)"
+excerpt: "A sequence of data processing components in a Machine learning system"
 ---
+
 
 Pipelines are a very common term used in setting up a machine learning systems. 
 They consist of components that run asynchronously. Each component pulls in a large amount 
