@@ -12,19 +12,19 @@ My notes on the Sci-kit Learn's API. FYI.
 Consistency:
     - All objects share a consistent and a simple interface.
 
-    Estimators:
+   Estimators:
     Any object that can estimate some paramters based on a dataset is called an estimator.
     (e.g., an imputer is an estimator). The estimation itself is peformed by the fit() method, and
     it takes only a datset as a paramter. Any other paramter needed to guide the estimation process is considered
     a hyperparamter and it must be set as an instance variable.
 
-    Transformers:
+   Transformers:
     Some estimators can also transfor a dataset; these are called transformers. The transformation is performed
     by the transform() method with the dataset to transform as a parameter. It returns the transformed dataset.
     This transformation generally relies on the learned parameters, as is the case for an imputer. All transformers
     also have a convenience method called fit_transform() that is equivalent to calling fit() and then transform().
 
-    Predictors:
+   Predictors:
     Some estimators, given a dataset, are capable of making predictions; they are called predictors.
     For example, the LinearRegression model is a predictor. A predictor has a predict() method that
     takes a dataset of new instances and returns a dataset of corresponding predictions. It also
