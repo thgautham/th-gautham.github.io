@@ -9,7 +9,7 @@ excerpt: "Sci-kit Learn's API and it's main design principles."
 ---
 My notes on the Sci-kit Learn's API. FYI.
 
-#### Consistency:
+Consistency:
     - All objects share a consistent and a simple interface.
 
     Estimators:
@@ -30,18 +30,18 @@ My notes on the Sci-kit Learn's API. FYI.
     takes a dataset of new instances and returns a dataset of corresponding predictions. It also
     has a score() method that measures the quality fo the predictions, given a test set.
 
-#### Inspection:
+Inspection:
     All the estimators hyperparamaters are accessible via public instance variables (e.g., imputer.strategy), and
     all the estimator's learned paramters are accessible via public instance variables with an underscore suffic.
 
-#### Nonproliferation of classes:
+Nonproliferation of classes:
     Datasets are represented as NumPy arrays or SciPy sparse matrices, instead of homemade classes.
 
-#### Composition:
+Composition:
     Existing building blocks are reused as much as possible. For example, it is easy to craete a Piepline estimator
     from an arbitrary sequence of transformers followed by a final estimator.
 
-#### Sensible defaults:
+Sensible defaults:
     Scikit-Learn provides reasonable default values for most parameters, making it easy to quickly create a
     baseline working system.
 
