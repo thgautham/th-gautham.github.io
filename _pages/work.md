@@ -4,7 +4,7 @@ permalink: /work/
 title: "Projects"
 author_profile: true
 header:
-  image: "/images/mountain-image-3.jpg"
+  image: "/images/mountain-5.png"
   caption: "Photo credit: [**Unsplash.com**](https://unsplash.com)"
 ---
 

@@ -8,7 +8,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/space-background.jpg
+  overlay_image: /images/mountain-5.png
 excerpt: "A collection of my science projects for fun."
 ---
 
