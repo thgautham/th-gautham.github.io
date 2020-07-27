@@ -53,6 +53,6 @@ In the virtual environment, we can install our packages,
 `pip` can install packages directly from their version control system:<br/>
 
 <figure>
-    <a href="/images/vcs-help.jpg"><img src="/images/vsc-help.jpg"</a>
+    <a href="/images/vcs-help.jpg"><img src="/images/vcs-help.jpg"></a>
     <figcaption>example repository layout</figcaption>
 </figure>
