@@ -1,5 +1,5 @@
 ---
-title: "TEMPLATE"
+title: "Stratified Sampling"
 date: yyyy-mm-dd
 tags: []
 header:
