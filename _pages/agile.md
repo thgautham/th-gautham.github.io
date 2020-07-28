@@ -11,7 +11,7 @@ header:
   overlay_image: /images/mountain-4.jpg
   actions:
     - label: "Scrum Master Certification"
-      url: "/images/CSM-1.jpg"
+      url: /images/CSM-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "A collection of my tidbits for using scrum and agile."
 ---
