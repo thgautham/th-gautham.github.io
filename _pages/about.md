@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/mountain-2.jpg"
+  image: "/images/sky-1.jpg"
   caption: "Photo credit: [**Unsplash.com**](https://unsplash.com)"
 ---
 
