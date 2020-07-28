@@ -8,7 +8,7 @@ header:
   overlay_image: /images/space-background.jpg
   actions:
     - label: "Resume"
-      url: "/assets/docs/resume.pdf"
+      url: "/assets/docs/Resume.pdf"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "For more details on all the things I'm interested in-mostly maths, visualization and practices, take a look at my resume."
 feature_row2:
