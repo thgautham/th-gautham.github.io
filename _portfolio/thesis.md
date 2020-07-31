@@ -4,7 +4,7 @@ excerpt: "Air Flow Pattern and Path Flow Simulation of Airborne Particulate Cont
 toc: true
 toc_sticky: true
 header:
-  overlay_image: /images/grayscale-1.jpg
+  overlay_image: /images/space-1.jpg
   overlay_filter: 0.5
   teaser: images/chip-image.jpg
   actions:

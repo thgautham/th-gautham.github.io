@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/beach-1.jpg"
+  image: "/images/sky-2.jpg"
   caption: "Photo credit: [**Unsplash.com**](https://unsplash.com)"
 ---
 
@@ -14,4 +14,4 @@ Previously, I researched and developed a Lagrangian particle tracking hypothesis
 
 My hobbies vary widly. Currently I train for obstacle race courses such as the Spartan Super and Beast races. I try to keep up with the weekly technological advances in the AI/GPU front. For mode details, check out my portfolio or take a look at my resume.
 
-I currently live in the Bay Area, where I work as a data scientist on a number of projects for the Global Delivery Team at a technology consulting company.
+I currently live in the Bay Area, where I work on a number of projects for the Global Delivery Team at a Technology consulting company.
