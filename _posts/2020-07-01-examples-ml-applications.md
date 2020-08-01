@@ -2,6 +2,8 @@
 title: "Examples of ML applications"
 date: 2020-07-01
 tags: [data wrangling, data science, messy data]
+toc: true
+toc_sticky: true
 header:
   image: "/images/mountain-image-3.jpg"
   caption: "Photo credit: [**Unsplash.com**](https://unsplash.com)"

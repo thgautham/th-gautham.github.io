@@ -2,6 +2,8 @@
 title: "Scikit-Learn's Design"
 date: 2020-07-24
 tags: [sci-kit learn, machine learning, api]
+toc: true
+toc_sticky: true
 header:
   image: "/images/mountain-image-3.jpg"
   caption: "Photo credit: [**Unsplash.com**](https://unsplash.com)"

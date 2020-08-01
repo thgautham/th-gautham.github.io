@@ -2,6 +2,8 @@
 title: "Stratified Sampling"
 date: 2020-07-27
 tags: []
+toc: true
+toc_sticky: true
 header:
   image: "/images/mountain-image-3.jpg"
   caption: "Photo credit: [**Unsplash.com**](https://unsplash.com)"
