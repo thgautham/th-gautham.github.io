@@ -5,14 +5,14 @@ permalink: /splash-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/space-background.jpg
+  overlay_image: /images/mountain-1.jpg
   actions:
     - label: "Resume"
       url: /assets/docs/Resume.pdf
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "For more details on all the things I'm interested in-mostly maths, visualization and practices, take a look at my resume."
+excerpt: "For more details on all the things I've worked on, take a look at my resume."
 feature_row2:
-  - image_path: /images/chip-image.jpg
+  - image_path: /images/chip-teaser.jpg
     alt: "Flow simulation of Particulates"
     title: "Path Flow simulation"
     excerpt: 'Conference: ASME 2018 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems'
