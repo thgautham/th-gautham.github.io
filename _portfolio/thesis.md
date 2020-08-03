@@ -4,9 +4,9 @@ excerpt: "Air Flow Pattern and Path Flow Simulation of Airborne Particulate Cont
 toc: true
 toc_sticky: true
 header:
-  overlay_image: /images/space-1.jpg
+  overlay_image: /images/mountain-2.jpg
   overlay_filter: 0.5
-  teaser: images/chip-image.jpg
+  teaser: images/chip-teaser.jpg
   actions:
     - label: "Paper Link"
       url: "https://doi.org/10.1115/IPACK2018-8436"
@@ -16,7 +16,7 @@ sidebar:
     image_alt: "logo"
     text: "Graduate Research Assistant, EMNSPC Lab, UTA"
   - title: "Subject Area"
-    text: "Flow (dynamics), Predictive Modelling, Flow Simulation"
+    text: "Flow analysis (dynamics), Predictive Modelling, Flow Simulation"
 gallery:
   - url: /images/part-contaminants.jpg
     image_path: images/part-contaminants.jpg
@@ -33,7 +33,7 @@ gallery:
 ---
 
 August 2018
-DOI: [10.1115/IPACK2018-8436] (https://doi.org/10.1115/IPACK2018-8436)
+DOI: [10.1115/IPACK2018-8436](https://doi.org/10.1115/IPACK2018-8436)
 Conference: ASME 2018 International Technical Conference and Exhibition
  on Packaging and Integration of Electronic and Photonic Microsystems
 
@@ -57,10 +57,10 @@ configurations and investigate the particulates that cause contamination and lea
 server failure.The data obtained from this analysis can be used in predicting failure from
 contamination and effectively re-designing the containment configuration.
 
-% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 ## ACKNOWLEDGEMENT
-this  work  is  supported  by  [NSF  IUCRC  Award  No.   IIP-1738811] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=1738811&HistoricalAwards=false).
+this  work  is  supported  by  [NSF  IUCRC  Award  No.   IIP-1738811](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1738811&HistoricalAwards=false).
 The authors would also like to extend their gratitude to Future Facilities Ltd,
 for promptly helping in simulations in 6SigmaRoom CFD Solver.
 
