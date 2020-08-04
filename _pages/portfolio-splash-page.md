@@ -23,7 +23,7 @@ feature_row3:
   - image_path: /images/agile.jpg
     alt: "placeholder image 2"
     title: "Certified Scrum Master"
-    excerpt: 'My view on the Agile Manifesto and an easy-to-follow guide I have used as a refresher on the agile methodology.'
+    excerpt: 'My view on the Agile Manifesto and an easy-to-follow guide I have used on the agile methodology.'
     url: /agile/
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -35,6 +35,14 @@ feature_row4:
     url: /science/
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row5:
+  - image_path: /images/puzzle-teaser.jpg
+    alt: "placeholder image 2"
+    title: "Certifications and Professional Achievements"
+    excerpt: ' A repository for the certifications I have picked up in the past.'
+    url: /science/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row2" type="left" %}
@@ -42,3 +50,5 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="right" %}

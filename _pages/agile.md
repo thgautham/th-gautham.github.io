@@ -12,6 +12,9 @@ header:
   actions:
     - label: "Scrum Master Certification"
       url: /images/CSM-1.jpg
+        image_path: images/CSM-1.jpg
+        alt: "Certified Scrum Master"
+        title: "Certified Scrum Master"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "A collection of my tidbits for using scrum and agile."
 ---
