@@ -1,7 +1,7 @@
 ---
 title: "Certifications and Professional Achievements"
 layout: splash
-permalink: /splash-cert-page/
+permalink: /cert-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
