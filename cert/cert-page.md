@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/mountain-1.jpg
-    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 feature_row1:
   - image_path: /images/certs/Coursera-tensorflowinpractice-1.jpg
     alt: "Tensor Flow in Practice"
@@ -52,7 +52,6 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row1" type="left" %}
 
