@@ -25,10 +25,6 @@ feature_row2:
     alt: "placeholder image 3"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /images/certs/Coursera-4.jpg
-    alt: "placeholder image 4"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row3:
   - image_path: /images/puzzle-teaser.jpg
     alt: "Flow simulation of Particulates"
