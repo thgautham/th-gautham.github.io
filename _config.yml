@@ -182,7 +182,7 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  recipes:
+  certs:
     output: true
     permalink: /:collection/:path/
   agile:
@@ -240,15 +240,13 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _pets
+  # _certs
   - scope:
       path: ""
-      type: pets
+      type: certs
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
 
 # Sass/SCSS
 sass:
