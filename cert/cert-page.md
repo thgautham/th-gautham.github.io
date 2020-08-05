@@ -7,7 +7,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/mountain-1.jpg
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "A repository for the ceritifications and achievements I have picked in the last couple of years." 
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, 
   enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
