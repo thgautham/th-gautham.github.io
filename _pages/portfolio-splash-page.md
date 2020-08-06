@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 layout: splash
-permalink: /splash-page /
+permalink: /portfolio-page /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
