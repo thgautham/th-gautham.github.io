@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
-layout: splash
-permalink: /splash-cert-page /
+#layout: splash
+#permalink: /splash-cert-page /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
