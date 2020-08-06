@@ -182,7 +182,7 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  certs:
+  cert:
     output: true
     permalink: /:collection/:path/
   agile:
