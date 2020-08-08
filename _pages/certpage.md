@@ -13,23 +13,33 @@ feature_row1:
     alt: "Tensor Flow in Practice"
     title: "Tensor Flow in Pracitce"
     excerpt: 'Tensor Tensor TensorTensor TensorTensor Tensor Tensor Tensor'
+    btn_class: "btn--info"
+    btn_label: "Read more"
 feature_row2:
   - image_path: /images/certs/Coursera-1.jpg
     alt: "Introduction-1"
-    title: "Introduction-1"
-    excerpt: "A short course on best practices for using TensorFlow, a popular open-source framework for machine learning. This deeplearning.ai TensorFlow specialization teaches how to implement the machine learning and deep learning concepts to start building and applying scalable models to real-world problems."
+    title: "Introduction to TensorFlow for AI, ML and DL."
+    excerpt: "A short course on best practices for using TensorFlow, a popular open-source framework for machine learning."
+    btn_class: "btn--info"
+    btn_label: "Read more" 
   - image_path: /images/certs/Coursera-2.jpg
     alt: "Coursera-2"
-    title: "Coursera-2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Convolutional Neural Networks in TensorFlow"
+    excerpt: "Advanced techniques to improve computer vision models, plotting loss and accuracy and exploring strategies to prevent overfitting, including augmentation and dropout. "
+    btn_class: "btn--info"
+    btn_label: "Read more"  
   - image_path: /images/certs/Coursera-3.jpg
     alt: "Tensor Flow in Practice"
-    title: "Tensor Flow in Pracitce"
-    excerpt: 'Tensor Tensor TensorTensor TensorTensor Tensor Tensor Tensor'
+    title: "Natural Language Processing in TensorFlow"
+    excerpt: 'Processing text, including tokenizing and representing sentences as vectors. Applying RNNs, GRUs and LSTMs in TF.'
+    btn_class: "btn--info"
+    btn_label: "Read more"
   - image_path: /images/certs/Coursera-4.jpg
     alt: "Tensor Flow in Practice"
     title: "Tensor Flow in Pracitce"
-    excerpt: 'Tensor Tensor TensorTensor TensorTensor Tensor Tensor Tensor'
+    excerpt: 'Implementing best practices to prepare time series data. Exploring RNNs and 1D ConvNets for prediction.'
+    btn_class: "btn--info"
+    btn_label: "Read more"
 ---
 
 {% include feature_row id="feature_row1" type="right" %}
