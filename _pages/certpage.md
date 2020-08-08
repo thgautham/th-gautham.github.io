@@ -15,21 +15,28 @@ feature_row1:
     excerpt: 'Tensor Tensor TensorTensor TensorTensor Tensor Tensor Tensor'
 feature_row2:
   - image_path: /images/certs/Coursera-1.jpg
-    alt: "Coursera-1"
-    title: "Coursera-1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Introduction-1"
+    title: "Introduction-1"
+    excerpt: "A short course on best practices for using TensorFlow, a popular open-source framework for machine learning. This deeplearning.ai TensorFlow specialization teaches how to implement the machine learning and deep learning concepts to start building and applying scalable models to real-world problems."
   - image_path: /images/certs/Coursera-2.jpg
     alt: "Coursera-2"
     title: "Coursera-2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row3:
   - image_path: /images/certs/Coursera-3.jpg
-    alt: "Coursera-3"
-    title: "Coursera-3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Tensor Flow in Practice"
+    title: "Tensor Flow in Pracitce"
+    excerpt: 'Tensor Tensor TensorTensor TensorTensor Tensor Tensor Tensor'
+  - image_path: /images/certs/Coursera-4.jpg
+    alt: "Tensor Flow in Practice"
+    title: "Tensor Flow in Pracitce"
+    excerpt: 'Tensor Tensor TensorTensor TensorTensor Tensor Tensor Tensor'
 ---
 
 {% include feature_row id="feature_row1" type="right" %}
 
 {% include feature_row id="feature_row2" %}
+
+{% include feature_row id="feature_row3" %}
 
 
