@@ -13,7 +13,7 @@ feature_row1:
     alt: "Tensor Flow in Practice"
     title: "Tensor Flow in Pracitce"
     excerpt: 'Tensor Tensor TensorTensor TensorTensor Tensor Tensor Tensor'
-feature_row:
+feature_row2:
   - image_path: /images/certs/Coursera-1.jpg
     alt: "Coursera-1"
     title: "Coursera-1"
@@ -30,6 +30,6 @@ feature_row:
 
 {% include feature_row id="feature_row1" type="right" %}
 
-{% include feature_row %}
+{% include feature_row2 %}
 
 
