@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 layout: splash
-permalink: /portfolio-page /
+permalink: /portfolio-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -40,7 +40,7 @@ feature_row5:
     alt: "placeholder image 2"
     title: "Certifications and Professional Achievements"
     excerpt: ' A repository for the certifications I have picked up in the past.'
-    url: "/science/"
+    url: /science/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
