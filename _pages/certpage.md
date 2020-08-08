@@ -12,7 +12,7 @@ feature_row1:
   - image_path: /images/certs/Coursera-tensorflowinpractice-1.jpg
     alt: "Tensor Flow in Practice"
     title: "Tensor Flow in Pracitce"
-    excerpt: 'Tensor Tensor TensorTensor TensorTensor Tensor Tensor Tensor'
+    excerpt: "Specialization Course to build and train Neural networks, led by Laurence Moroney, AI Advocate of Google Brain. "
     url: "/science/feature-scaling/"
     btn_class: "btn--info"
     btn_label: "Read more"
@@ -20,7 +20,7 @@ feature_row2:
   - image_path: /images/certs/Coursera-1.jpg
     alt: "Introduction-1"
     title: "Introduction to TensorFlow for AI, ML and DL."
-    excerpt: "A short course on best practices for using TensorFlow, a popular open-source framework for machine learning."
+    excerpt: "Best practices for TensorFlow, to train a NN for a computer vision application."
     url: "/science/feature-scaling/"
     btn_class: "btn--info"
     btn_label: "Read more" 
