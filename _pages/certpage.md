@@ -1,7 +1,7 @@
 ---
 title: "Certifications and Professional Achievements"
 layout: splash
-permalink: /certpage/
+permalink: /cert/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,7 +10,7 @@ header:
 feature_row1:
   - image_path: /images/certs/Coursera-tensorflowinpractice-1.jpg
     alt: "Tensor Flow in Practice"
-    title: "Tensor Flow in Practice"
+    title: "Tensor Flow in Pracitce"
     excerpt: 'Tensor Tensor TensorTensor TensorTensor Tensor Tensor Tensor'
 feature_row2:
   - image_path: /images/certs/Coursera-1.jpg
@@ -35,13 +35,25 @@ feature_row4:
     alt: "placeholder image 2"
     title: "Certified Scrum Master"
     excerpt: 'My view on the Agile Manifesto and an easy-to-follow guide I have used on the agile methodology.'
+feature_row5:
+  - image_path: /images/puzzle-teaser.jpg
+    alt: "placeholder image 2"
+    title: "Data Science Foundations"
+    excerpt: ' A collection of the data analysis projects I have worked on in the past.'
+feature_row6:
+  - image_path: /images/puzzle-teaser.jpg
+    title: "Certifications and Professional Achievements"
+    excerpt: ' A repository for the certifications I have picked up in the past.'
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
 
-{% include feature_row2 "}
+{% include feature_row id="feature_row2" type="center" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
 
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="right" %}

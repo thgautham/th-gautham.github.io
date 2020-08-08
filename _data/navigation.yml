@@ -2,8 +2,6 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Blog Posts"
-    url: /portfolio-page/
   - title: "Portfolio"
     url: /portfolio-page/
   # - title: "About"
