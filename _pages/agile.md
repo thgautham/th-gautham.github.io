@@ -11,7 +11,7 @@ header:
   overlay_image: /images/mountain-4.jpg
   actions:
     - label: "Scrum Master Certification"
-      url: /images/CSM-1.png
+      url: /images/certs/CSM-1.png
       image_path: images/CSM-1.png
       alt: "Certified Scrum Master"
       title: "Certified Scrum Master"

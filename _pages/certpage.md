@@ -45,6 +45,8 @@ feature_row2:
     url: "/science/feature-scaling/"
     btn_class: "btn--info"
     btn_label: "Read more"
+intro: 
+    excerpt: "Professional Achievements"
 feature_row3:
   - image_path: /images/certs/scrum-master.jpg
     alt: "Certified scrum Master"
@@ -53,7 +55,6 @@ feature_row3:
     url: "/agile/"
     btn_class: "btn--info"
     btn_label: "Read more"
-feature_row4:
   - image_path: /images/certs/stanford-ds.jpg
     alt: "Certified scrum Master"
     title: "Data Science professional program."
@@ -61,13 +62,20 @@ feature_row4:
     url: "/science/"
     btn_class: "btn--info"
     btn_label: "Read more"
+ - image_path: /images/certs/.jpg
+    alt: "Certified scrum Master"
+    title: "Data Science professional program."
+    excerpt: "Comprehensive three course program in: <br/> Python<br/> Statistics <br/> R Programming"
+    url: "/science/"
+    btn_class: "btn--info"
+    btn_label: "Read more"   
 ---
 
 {% include feature_row id="feature_row1" type="right" %}
 
 {% include feature_row id="feature_row2" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row3" %}
 
