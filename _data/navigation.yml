@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: /cert/
+    url: /
   - title: "Portfolio"
     url: /portfolio-page/
   # - title: "About"
