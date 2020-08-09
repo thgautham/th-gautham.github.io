@@ -59,8 +59,15 @@ contamination and effectively re-designing the containment configuration.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
+## Background
+
+## Computation
+
 ## ACKNOWLEDGEMENT
-this  work  is  supported  by  [NSF  IUCRC  Award  No.   IIP-1738811](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1738811&HistoricalAwards=false).
+
+![image-right]({{ site.url }}{{ site.baseurl }}/images/NSF-logo.jpg){: .align-right}
+
+This  work  is  supported  by  [NSF  IUCRC  Award  No.   IIP-1738811](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1738811&HistoricalAwards=false).
 The authors would also like to extend their gratitude to Future Facilities Ltd,
 for promptly helping in simulations in 6SigmaRoom CFD Solver.
 
