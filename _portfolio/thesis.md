@@ -65,7 +65,7 @@ contamination and effectively re-designing the containment configuration.
 
 ## ACKNOWLEDGEMENT
 
-![image-right]({{ site.url }}{{ site.baseurl }}/images/NSF-logo.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/images/NSF-logo.png){: .align-right}
 
 This  work  is  supported  by  [NSF  IUCRC  Award  No.   IIP-1738811](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1738811&HistoricalAwards=false).
 The authors would also like to extend their gratitude to Future Facilities Ltd,
