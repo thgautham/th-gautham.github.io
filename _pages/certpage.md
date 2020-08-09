@@ -47,7 +47,7 @@ feature_row3:
     btn_class: "btn--info"
     btn_label: "Read more"
 feature_row1:
-  - image_path: /images/certs/CSM-1.jpg
+  - image_path: /images/certs/CSM-1.png
     alt: "Scrum Master"
     title: "Certified Scrum Master"
     excerpt: "Agile Methodology"
