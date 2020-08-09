@@ -17,7 +17,7 @@ I currently work as a Technology Associate, helping organizations understand the
 
 Previously, I researched and developed a Lagrangian particle tracking hypothesis using monte-carlo simulation to predict concentration surfaces at EMNSPC Lab between 2016 and 2018 when pursuing my Graduate degree in Mechanical Engineering at the University of Texas. I have experience working with Sci-kit learn, Tensorflow, Pandas, R and other data analysis and machine learning libraries.
 
-[View my certifications]({{ "/certpage/" | relative_url }}){: .btn .btn--success .btn--large}
+[View my certifications]({{ "/certpage/" | relative_url }}){: .btn .btn--info }
 
 My hobbies vary widly. Currently I train for obstacle race courses such as the Spartan Super and Beast races. I try to keep up with the weekly technological advances in the AI/GPU front. For mode details, check out my portfolio or take a look at my resume.
 

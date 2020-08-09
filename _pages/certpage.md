@@ -58,7 +58,7 @@ feature_row4:
     alt: "Certified scrum Master"
     title: "Data Science professional program."
     excerpt: "Comprehensive three course program in: <br/> Python<br/> Statistics <br/> R Programming"
-    url: "/agile/"
+    url: "/science/"
     btn_class: "btn--info"
     btn_label: "Read more"
 ---
