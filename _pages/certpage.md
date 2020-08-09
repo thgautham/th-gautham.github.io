@@ -19,10 +19,10 @@ feature_row1:
     btn_label: "Read more"
 feature_row2:
   - image_path: /images/certs/Coursera-1.jpg
-    alt: "Introduction-1"
+    alt: "TensorFlow for AI, ML and DL"
     title: "Introduction to TensorFlow for AI, ML and DL."
     excerpt: "Best practices for TensorFlow, to train a NN for a computer vision application."
-    url: "/science/feature-scaling/"
+    url: "/science/"
     btn_class: "btn--info"
     btn_label: "Read more" 
   - image_path: /images/certs/Coursera-2.jpg
@@ -47,24 +47,24 @@ feature_row2:
     btn_class: "btn--info"
     btn_label: "Read more"
 feature_row3:
-  - image_path: /images/certs/Coursera-1.jpg
-    alt: "Introduction-1"
-    title: "Introduction to TensorFlow for AI, ML and DL."
-    excerpt: "Best practices for TensorFlow, to train a NN for a computer vision application."
-    url: "/science/"
+  - image_path: /images/certs/CSM-1.jpg
+    alt: "Scrum Master"
+    title: "Certified Scrum Master"
+    excerpt: "Agile Methodology"
+    url: "/agile/"
     btn_class: "btn--info"
     btn_label: "Read more" 
-  - image_path: /images/certs/Coursera-2.jpg
-    alt: "Coursera-2"
-    title: "Convolutional Neural Networks"
-    excerpt: "Advanced techniques to improve computer vision models, plotting loss and accuracy and exploring strategies to prevent overfitting, including augmentation and dropout. "
+  - image_path: /images/certs/stanford-ds-1.jpg
+    alt: "Data Science"
+    title: "Data science professional program"
+    excerpt: "Best practices in Python, R Programming and Statistics. "
     url: "/science/"
     btn_class: "btn--info"
     btn_label: "Read more"  
-  - image_path: /images/certs/Coursera-3.jpg
-    alt: "Tensor Flow in Practice"
-    title: "Natural Language Processing"
-    excerpt: 'Processing text, including tokenizing and representing sentences as vectors. Applying RNNs, GRUs and LSTMs in TF.'
+  - image_path: /images/certs/smc-ps.jpg
+    alt: "Public Service Award"
+    title: "Public Service Award"
+    excerpt: 'San Mateo County - Assessor Office, Public Assessor Award'
     url: "/science/"
     btn_class: "btn--info"
     btn_label: "Read more"
