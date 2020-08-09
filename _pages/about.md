@@ -2,11 +2,15 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/sky-2.jpg"
-  caption: "Photo credit: [**Unsplash.com**](https://unsplash.com)"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /images/mountain-1.jpg
+  actions:
+    - label: "Resume"
+      url: /assets/docs/Resume.pdf
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Hi! My name is Gautham Thirunavakkarasu. For more details on all the things I've worked on, take a look at my resume."
 ---
-
-Hi! My name is Gautham Thirunavakkarasu.
 
 I currently work as a Technology Associate, helping organizations understand their legacy quantitative information. I spend my time cleaning messy datasets, establishing data quality rules, building predicitve models and providing mathematical expertise to business users and data-focused development teams.
 
