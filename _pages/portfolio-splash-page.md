@@ -40,7 +40,7 @@ feature_row5:
     alt: "placeholder image 2"
     title: "Certifications and Professional Achievements"
     excerpt: ' A repository for the certifications I have picked up in the past.'
-    url: "/cert/"
+    url: "/docs/certpage"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
