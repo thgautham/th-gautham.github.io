@@ -53,7 +53,7 @@ feature_row3:
     url: "/agile/"
     btn_class: "btn--info"
     btn_label: "Read more"
-feature_row3:
+feature_row4:
   - image_path: /images/certs/stanford-ds.jpg
     alt: "Certified scrum Master"
     title: "Data Science professional program."
@@ -67,5 +67,7 @@ feature_row3:
 
 {% include feature_row id="feature_row2" %}
 
+{% include feature_row id="feature_row3" type="right" %}
 
+{% include feature_row id="feature_row4" type="left" %}
 
