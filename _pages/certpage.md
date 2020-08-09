@@ -60,10 +60,10 @@ feature_row3:
     url: "/science/"
     btn_class: "btn--info"
     btn_label: "Read more"
- - image_path: /images/certs/.jpg
+ - image_path: /images/certs/scrum-master.jpg
     alt: "Certified scrum Master"
     title: "Data Science professional program."
-    excerpt: "Comprehensive three course program in: <br/> Python<br/> Statistics <br/> R Programming"
+    excerpt: "Public service award"
     url: "/science/"
     btn_class: "btn--info"
     btn_label: "Read more"   
