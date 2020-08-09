@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "For more details on all the things I've worked on, take a look at my resume."
 
-feature_row1:
+feature_row2:
   - image_path: /images/certs/Coursera-tensorflowinpractice-1.jpg
     alt: "Tensor Flow in Practice"
     title: "Tensor Flow in Pracitce"
@@ -17,7 +17,7 @@ feature_row1:
     url: "/science/feature-scaling/"
     btn_class: "btn--info"
     btn_label: "Read more"
-feature_row2:
+feature_row3:
   - image_path: /images/certs/Coursera-1.jpg
     alt: "TensorFlow for AI, ML and DL"
     title: "Introduction to TensorFlow for AI, ML and DL."
@@ -46,7 +46,7 @@ feature_row2:
     url: "/science/"
     btn_class: "btn--info"
     btn_label: "Read more"
-feature_row3:
+feature_row1:
   - image_path: /images/certs/CSM-1.jpg
     alt: "Scrum Master"
     title: "Certified Scrum Master"
@@ -70,9 +70,9 @@ feature_row3:
     btn_label: "Read more"
 ---
 
-{% include feature_row id="feature_row1" type="right" %}
+{% include feature_row id="feature_row1" %}
 
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" %}
 
