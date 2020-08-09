@@ -45,8 +45,6 @@ feature_row2:
     url: "/science/feature-scaling/"
     btn_class: "btn--info"
     btn_label: "Read more"
-intro: 
-    excerpt: "Professional Achievements"
 feature_row3:
   - image_path: /images/certs/scrum-master.jpg
     alt: "Certified scrum Master"
@@ -74,8 +72,6 @@ feature_row3:
 {% include feature_row id="feature_row1" type="right" %}
 
 {% include feature_row id="feature_row2" %}
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row3" %}
 
