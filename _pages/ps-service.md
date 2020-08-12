@@ -5,7 +5,7 @@ permalink: /ps-service/
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /images/ps-service.jpg
+  overlay_image: /images/mountain-4.jpg
   actions:
     - label: "Public Service Award"
       url: /images/certs/smc-ps.jpg
