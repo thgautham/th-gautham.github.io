@@ -7,9 +7,9 @@ header:
   overlay_filter: "0.2"
   overlay_image: /images/mountain-4.jpg
   actions:
-    - label: "Public Service Award"
+    - label: "View Certification"
       url: /images/certs/smc-ps.jpg
-      image_path: images/smc-ps.jpg
+      image_path: images/certs/smc-ps.jpg
       alt: "Public Service Award"
       title: "Public Service Award"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
