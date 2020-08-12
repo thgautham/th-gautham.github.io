@@ -2,6 +2,17 @@
 title: "Public Service Award "
 layout: single
 permalink: /ps-service/
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.2"
+    overlay_image: /images/ps-service.jpg
+    actions:
+    - label: "Public Service Award"
+      url: /images/certs/smc-ps.jpg
+      image_path: images/smc-ps.jpg
+      alt: "Public Service Award"
+      title: "Public Service Award"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 Contribute to the production and delivery with the FS West vertical of PS in a Public Sector digital business transformation project - a property assessment system that is used for determinig value of taxable properties located within the county limits. Working with the latest cloud Paas, platform as a service like Salesforce and AWS and experienced in implementing machine learning, deep learning, data analytics, business process improvements and functional analysis.
