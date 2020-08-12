@@ -3,10 +3,10 @@ title: "Public Service Award "
 layout: single
 permalink: /ps-service/
 header:
-    overlay_color: "#000"
-    overlay_filter: "0.2"
-    overlay_image: /images/ps-service.jpg
-    actions:
+  overlay_color: "#000"
+  overlay_filter: "0.2"
+  overlay_image: /images/ps-service.jpg
+  actions:
     - label: "Public Service Award"
       url: /images/certs/smc-ps.jpg
       image_path: images/smc-ps.jpg
