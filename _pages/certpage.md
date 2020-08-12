@@ -65,7 +65,7 @@ feature_row1:
     alt: "Public Service Award"
     title: "Public Service Award"
     excerpt: 'San Mateo County - Assessor Office, Public Assessor Award'
-    url: "/ps-service/"
+    url: /ps-service/
     btn_class: "btn--info"
     btn_label: "Read more"
 ---

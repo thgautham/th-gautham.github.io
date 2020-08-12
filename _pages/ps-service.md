@@ -1,7 +1,6 @@
 ---
 title: "Public Service Award "
 layout: single
-    classes: wide
 permalink: /ps-service/
 ---
 
