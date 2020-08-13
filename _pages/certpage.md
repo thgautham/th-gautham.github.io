@@ -28,7 +28,7 @@ feature_row3:
     alt: "Tensor Flow in Practice"
     title: "Natural Language Processing"
     excerpt: 'Processing text, including tokenizing and representing sentences as vectors. Applying RNNs, GRUs and LSTMs in TF.'
- - image_path: /images/certs/Coursera-4.jpg
+ -  image_path: /images/certs/Coursera-4.jpg
     alt: "Tensor Flow in Practice"
     title: "Sequences, Time series and Prediction"
     excerpt: 'Implementing best practices to prepare time series data. Exploring RNNs and 1D ConvNets for prediction.'
