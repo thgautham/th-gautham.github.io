@@ -7,8 +7,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/mountain-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "For more details on all the things I've worked on, take a look at my resume."
-
 feature_row2:
   - image_path: /images/certs/Coursera-tensorflowinpractice-1.jpg
     alt: "Tensor Flow in Practice"

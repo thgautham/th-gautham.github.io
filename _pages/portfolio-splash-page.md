@@ -38,8 +38,8 @@ feature_row1:
     btn_class: "btn--info"
     btn_label: "Read more"
 feature_row3:
-  - excerpt: "Here you'll fins some of the projects I've done over the years, a representativte of my skills and interests. 
-  The discussion is non-technical; if you're curious about the technical details, feel free to contact me on LinkedIn"
+  - excerpt: "Here you'll find some of the projects I've done over the years, a representativte of my skills and interests. 
+  The discussion is non-technical; if you're curious about the technical details, feel free to contact me on LinkedIn."
 ---
 {% include feature_row id="feature_row3" type="center"%}
 
