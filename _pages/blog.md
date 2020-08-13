@@ -11,7 +11,7 @@ feature_row1:
     alt: "customizable"
     title: "Machine Learning Stuff"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/posts/"
+    url: "/docs/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/puzzle-teaser.jpg
