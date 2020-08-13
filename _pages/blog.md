@@ -14,7 +14,7 @@ feature_row1:
     url: "/docs/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/bridge-1.jpg
+  - image_path: /images/bridge-1.png
     alt: "fully responsive"
     title: "Data Science Work"
     excerpt: "Python and R programming Projects and concepts."
