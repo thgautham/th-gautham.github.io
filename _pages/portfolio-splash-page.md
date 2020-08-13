@@ -16,25 +16,25 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row1:
-  - image_path: /images/certs/CSM-1.png
+  - image_path: /images/puzzle-teaser.jpg
     alt: "Scrum Master"
-    title: "Certified Scrum Master"
-    excerpt: "Agile Methodology"
-    url: "/agile/"
+    title: "Coming Soon!"
+    excerpt: "Object detection in commercial planning documents for Valuation Assessment"
+    url: /
     btn_class: "btn--info"
     btn_label: "Read more" 
-  - image_path: /images/certs/stanford-ds-1.jpg
+  - image_path: /images/puzzle-teaser.jpg
     alt: "Data Science"
-    title: "Data science professional program"
-    excerpt: "Best practices in Python, R Programming and Statistics. "
-    url: "/science/"
+    title: "Coming Soon!"
+    excerpt: "Sales Insight on Residential and Commerical Property"
+    url: /
     btn_class: "btn--info"
     btn_label: "Read more"  
   - image_path: /images/certs/smc-ps.jpg
     alt: "Public Service Award"
     title: "Public Service Award"
-    excerpt: 'San Mateo County - Assessor Office, Public Assessor Award'
-    url: /ps-service/
+    excerpt: 'Semantic segmentation on Residential Property'
+    url: /
     btn_class: "btn--info"
     btn_label: "Read more"
 feature_row3:
@@ -42,9 +42,9 @@ feature_row3:
   <br/>
   The discussion is non-technical; if you're curious about the technical details, feel free to contact me on LinkedIn"
 ---
+{% include feature_row id="feature_row3" type="center"%}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row1" %}
 
-{% include feature_row id="feature_row3" %}
