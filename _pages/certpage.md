@@ -20,30 +20,18 @@ feature_row3:
     alt: "TensorFlow for AI, ML and DL"
     title: "Introduction to TensorFlow for AI, ML and DL."
     excerpt: "Best practices for TensorFlow, to train a NN for a computer vision application."
-    url: "/science/"
-    btn_class: "btn--info"
-    btn_label: "Read more" 
   - image_path: /images/certs/Coursera-2.jpg
     alt: "Coursera-2"
     title: "Convolutional Neural Networks"
-    excerpt: "Advanced techniques to improve computer vision models, plotting loss and accuracy and exploring strategies to prevent overfitting, including augmentation and dropout. "
-    url: "/science/feature-scaling/"
-    btn_class: "btn--info"
-    btn_label: "Read more"  
+    excerpt: "Advanced techniques to improve computer vision models, plotting loss and accuracy and exploring strategies to prevent overfitting, including augmentation and dropout. " 
   - image_path: /images/certs/Coursera-3.jpg
     alt: "Tensor Flow in Practice"
     title: "Natural Language Processing"
     excerpt: 'Processing text, including tokenizing and representing sentences as vectors. Applying RNNs, GRUs and LSTMs in TF.'
-    url: "/science/"
-    btn_class: "btn--info"
-    btn_label: "Read more"
-  - image_path: /images/certs/Coursera-4.jpg
+ - image_path: /images/certs/Coursera-4.jpg
     alt: "Tensor Flow in Practice"
     title: "Sequences, Time series and Prediction"
     excerpt: 'Implementing best practices to prepare time series data. Exploring RNNs and 1D ConvNets for prediction.'
-    url: "/science/"
-    btn_class: "btn--info"
-    btn_label: "Read more"
 feature_row1:
   - image_path: /images/certs/CSM-1.png
     alt: "Scrum Master"
