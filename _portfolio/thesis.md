@@ -59,8 +59,14 @@ contamination and effectively re-designing the containment configuration.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
+## Computation
+CFD modelling is the process of representing a fluid flowproblem  by  mathematical  equations  based  on  the  fundamentallaws of physics, and solving those equations to predict the vari-ation of velocity, pressure and temperature, and other variablessuch as turbulence parameters and concentrations which are dis-ussed by Jone[10].  Eulerian or Lagrangian approaches are oneof the most popular methods for flow visualization and particletracking.   The difference in both the methods is that the Eule-rian method treats the particles as continuum and the Lagrangianmethods focuses on the particle frame of reference, treating eachparticle individually
+
 ## ACKNOWLEDGEMENT
-this  work  is  supported  by  [NSF  IUCRC  Award  No.   IIP-1738811](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1738811&HistoricalAwards=false).
+
+![image-right]({{ site.url }}{{ site.baseurl }}/images/NSF-logo.png){: .align-right}
+
+This  work  is  supported  by  [NSF  IUCRC  Award  No.   IIP-1738811](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1738811&HistoricalAwards=false).
 The authors would also like to extend their gratitude to Future Facilities Ltd,
 for promptly helping in simulations in 6SigmaRoom CFD Solver.
 

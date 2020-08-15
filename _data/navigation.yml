@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /
+  - title: "Notebook"
+    url: /blog/
   - title: "Portfolio"
     url: /portfolio-page/
   # - title: "About"
