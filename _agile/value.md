@@ -27,7 +27,3 @@ The logical argument still holds true, delivering value is always better than cr
 
 Teams always have to focus on delivering value, but when faced with a blocker such as a complex requirement, taking this above mentioned approach can help prove a unique solution. The harsh truth is having a backlog that creates value and somewhere leads into delivering value will help the team succeed with agile.
 
-
-```python
-
-```
