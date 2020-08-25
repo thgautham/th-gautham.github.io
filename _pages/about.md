@@ -21,7 +21,7 @@ Previously, I researched and developed a Lagrangian particle tracking hypothesis
   <figcaption>San Jose Super 10K, Feb 2020.</figcaption>
 </figure>
 
-My hobbies vary widly. Currently I train for obstacle race courses such as the Spartan Super and Beast races. I try to keep up with the weekly technological advances in the AI/GPU front. For mode details, check out my portfolio or take a look at my resume.
+My hobbies vary widly. Currently I train for obstacle race courses such as the Spartan Super and Sprint races. I try to keep up with the weekly technological advances in the AI/GPU front. For more details, take a look at my resume and reach out to me on LinkedIn.
 
 I currently live in the Bay Area, where I work on a number of projects for the Global Delivery Team at a Technology consulting company. 
 {: .text-justify}
