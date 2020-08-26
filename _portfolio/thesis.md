@@ -45,18 +45,18 @@ The difference in both the methods is that the Eule-rian method treats the parti
 
 This describes, more closely, the exact behaviour of partic-ulates in the Data Center space. The fundamental equations that depict the airflow can be expressed as:
 
-`$$ \sum F_i = \frac{d(m_p V_i)}{dx} $$`
+`\\\sum F_i = \frac{d(m_p V_i)}{dx}\\`
 
 Momentum  force  is  transferred  between  air  and  particlesthrough inter-phase drag and lift forces,  which can be dividedinto, but not limited to, the following parts: the drag force, pres-sure gradient force, unsteady forces which include Basset forceand virtual mass force, Brownian force, and body force, such asgravity force and buoyancy force discussed by Clayton in[12] 
 
-`$$ \sum F_i = F_dragi + F_gravi + F_safi + Fbi $$`
+`$$\sum F_i = F_dragi + F_gravi + F_safi + F_bi$$`
 
 The drag force on the particle is expressed as, 
 
-`$$ F_dragi = -C_D\frac{\pi}{8}\rho d_p^2 $$`
+`$$F_dragi = -C_D\frac{\pi}{8}\rho d_p^2$$`
 
  
-{% include gallery caption="The various simulations patters observed to go along with this case study." %}
+{% include gallery caption="The various simulation patterns observed to go along with this case study." %}
 
 ... 
 
