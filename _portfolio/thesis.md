@@ -37,21 +37,6 @@ The objective of this study is to design a model data center and simulate the fl
 
  The Computer Room Air Conditioning unit is modelled as the source for the particulate contaminants which represents contaminants entering along with free air through an air-side economizer. The data obtained from this analysis can be helpful in predicting which type of particles will be deposited at what location based on its distance from the source and weight of the particles. This can further help in reinforcing the regions with a potential to fail under particulate contamination.
 
-## Proceedings Paper
-
-
-__Paper No__:  IPACK2018-8436, V001T02A011; 12 pages
-__DOI__: [10.1115/IPACK2018-8436](https://doi.org/10.1115/IPACK2018-8436)
-__Conference__: ASME 2018 International Technical Conference and Exhibition
- on Packaging and Integration of Electronic and Photonic Microsystems
-__Published Online__: November 13, 2018
-
-## Problem statement:##
- Analysis on using free-air cooling and identifying the impact of particulate contaminants on the server machines.
-
- 
-{% include gallery caption="The various simulations patters observed to go along with this case study." %}
-
 ## Computation
 
 CFD modelling is the process of representing a fluid flowproblem  by  mathematical  equations  based  on  the  fundamentallaws of physics, and solving those equations to predict the vari-ation of velocity, pressure and temperature, and other variablessuch as turbulence parameters and concentrations which are dis-ussed by Jone[10].  Eulerian or Lagrangian approaches are oneof the most popular methods for flow visualization and particletracking.   
@@ -60,17 +45,28 @@ The difference in both the methods is that the Eule-rian method treats the parti
 
 This describes, more closely, the exact behaviour of partic-ulates in the Data Center space. The fundamental equations that depict the airflow can be expressed as:
 
-$$ \sum F_i = \frac{d(m_p V_i)}{dx} $$
+`$$ \sum F_i = \frac{d(m_p V_i)}{dx} $$`
 
 Momentum  force  is  transferred  between  air  and  particlesthrough inter-phase drag and lift forces,  which can be dividedinto, but not limited to, the following parts: the drag force, pres-sure gradient force, unsteady forces which include Basset forceand virtual mass force, Brownian force, and body force, such asgravity force and buoyancy force discussed by Clayton in[12] 
 
-$$ \sum F_i = F_dragi + F_gravi + F_safi + Fbi $$
+`$$ \sum F_i = F_dragi + F_gravi + F_safi + Fbi $$`
 
 The drag force on the particle is expressed as, 
 
-$$ F_dragi = -C_D\frac{\pi}{8}\rho d_p^2 $$
+`$$ F_dragi = -C_D\frac{\pi}{8}\rho d_p^2 $$`
+
+ 
+{% include gallery caption="The various simulations patters observed to go along with this case study." %}
 
 ... 
+
+## Proceedings Paper
+
+__Paper No__:  IPACK2018-8436, V001T02A011; 12 pages <br/>
+__DOI__: [10.1115/IPACK2018-8436](https://doi.org/10.1115/IPACK2018-8436)<br/>
+__Conference__: ASME 2018 International Technical Conference and Exhibition
+ on Packaging and Integration of Electronic and Photonic Microsystems<br/>
+__Published Online__: November 13, 2018<br/>
 
 ## ACKNOWLEDGEMENT
 
