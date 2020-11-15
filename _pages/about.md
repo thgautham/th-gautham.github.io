@@ -25,6 +25,6 @@ Previously, I researched and developed a Lagrangian particle tracking hypothesis
 
 My hobbies vary widly. Currently I particapate in Obstacle Races and I'm training for the Beast and Sprint race courses. I try to keep up with the weekly technological advances in the AI/GPU front. For more details, take a look at my resume and reach out to me on LinkedIn.
 
-I currently live in the Bay Area, where I work on a number of projects for the Global Delivery Team at a Technology consulting company. 
+I currently live in the Bay Area, where I work on a number of projects for the Global Delivery Team. 
 {: .text-justify}
 
