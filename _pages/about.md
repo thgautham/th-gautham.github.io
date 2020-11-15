@@ -12,14 +12,16 @@ header:
 excerpt: "For more details on all the things I've worked on, take a look at my resume."
 ---
 
-I currently work as a Technology Associate, helping organizations understand their legacy quantitative information. I spend my time cleaning messy datasets, establishing data quality rules, building predicitve models and providing mathematical expertise to business users and data-focused development teams.
+I'm currently working as a Data Scientist - Associate Technology at Publicis Sapient specialized in leading project evolutions that are being transitioned from traditional architecture to solutions where machine learning and deep learning approaches are implemented. 
+
+I spend my time cleaning messy datasets, establishing data quality rules, building predicitve models and providing mathematical expertise to business users and data-focused development teams.
+
+<figure style="width: 250px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/spartan_carry.jpg" alt="">
+  <figcaption>SPARTAN Super 10K.</figcaption>
+</figure>
 
 Previously, I researched and developed a Lagrangian particle tracking hypothesis using monte-carlo simulation to predict concentration surfaces at EMNSPC Lab between 2016 and 2018 when pursuing my Graduate degree in Mechanical Engineering at the University of Texas. I have experience working with Tensorflow, Pandas, Scikit-Learn, R and other data analysis and machine learning libraries.
-
-<figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/spartan_carry.jpg" alt="">
-  <figcaption>San Jose Super 10K, Feb 2020.</figcaption>
-</figure>
 
 My hobbies vary widly. Currently I particapated in a Spartan Super 10K Obstacle Race and I'm train for the Beast and Sprint race courses. I try to keep up with the weekly technological advances in the AI/GPU front. For more details, take a look at my resume and reach out to me on LinkedIn.
 
