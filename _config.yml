@@ -113,13 +113,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-    # url: "https://twitter.com/thi_gautham"
+    # url: "https://twitter.com/thgautham"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Gth1205"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/thi-gautham/"
+      url: "https://www.linkedin.com/in/thgautham/"
 
 
 # Reading Files
