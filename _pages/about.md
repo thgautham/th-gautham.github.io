@@ -18,12 +18,12 @@ I spend my time cleaning messy datasets, establishing data quality rules, buildi
 
 Previously, I researched and developed a Lagrangian particle tracking hypothesis using monte-carlo simulation to predict concentration surfaces at EMNSPC Lab between 2016 and 2018 when pursuing my Graduate degree in Mechanical Engineering at the University of Texas. I have experience working with Tensorflow, Pandas, Scikit-Learn, R and other data analysis and machine learning libraries.
 
+My hobbies vary widly. Currently I particapate in Obstacle Races and I'm training for the Beast and Sprint race courses. I try to keep up with the weekly technological advances in the AI/GPU front. For more details, take a look at my resume and reach out to me on LinkedIn.
+
 <figure style="width: 250px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/spartan_carry.jpg" alt="">
   <figcaption>SPARTAN Super 10K.</figcaption>
 </figure> 
-
-My hobbies vary widly. Currently I particapate in Obstacle Races and I'm training for the Beast and Sprint race courses. I try to keep up with the weekly technological advances in the AI/GPU front. For more details, take a look at my resume and reach out to me on LinkedIn.
 
 I currently live in the Bay Area, where I work on a number of projects for the Global Delivery Team. 
 {: .text-justify}
