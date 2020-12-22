@@ -16,7 +16,7 @@ title_separator          : "|"
 subtitle                 : #"Data Scientist"
 name                     : &name "Gautham Thirunavakkarasu" # &name is a YAML anchor which can be *referenced later
 description              : &description "A personal scratchpad for all things I find interest in - data, maths and science."
-url                      : https://thgautham.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #https://thgautham.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : #"mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
