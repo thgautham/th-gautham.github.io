@@ -18,9 +18,9 @@ name                     : &name "Gautham Thirunavakkarasu" # &name is a YAML an
 description              : &description "A personal scratchpad for all things I find interest in - data, maths and science."
 url                      : https://www.thgautham.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : #"mmistakes/minimal-mistakes"
+repository               : "Gth1205/th-gautham.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/logo.png"
+logo                     : #"/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
