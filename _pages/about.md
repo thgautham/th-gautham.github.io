@@ -14,7 +14,7 @@ excerpt: "For more details on all the things I've worked on, take a look at my r
 
 I like building things. I use maths and data science on products which evolve from traditional architecture to ML/AI solutions. 
 
-Previously, I researched and developed a Lagrangian particle tracking hypothesis using monte-carlo simulation to predict particle flow and deposition concentration on surfaces.
+Previously, I researched and developed a Lagrangian particle tracking hypothesis using monte-carlo simulation to predict particle flow and deposition concentration on computing server surfaces.
 
 Currently, I live in the San Francisco Peninsula and work for a Digital Transformation Company.
 
