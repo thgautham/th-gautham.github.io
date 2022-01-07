@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Gautham Thirunavakkarasu"
 title_separator          : "|"
-subtitle                 : #"Data Scientist"
+subtitle                 : #"Product Manager"
 name                     : &name "Gautham Thirunavakkarasu" # &name is a YAML anchor which can be *referenced later
 description              : &description "A personal scratchpad for all things I find interest in - data, maths and science."
 url                      : https://www.thgautham.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -64,7 +64,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : #&twitter "mmistakes"
+  username               : "@thgautham"
 facebook:
   username               : #&facebook "michaelrose"
   app_id                 :
@@ -91,21 +91,21 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/images/bio-pic.jpg"
-  bio              : "Data scientist and engineer."
+  bio              : "Product, Data science and engineering."
   location         : "San Francisco"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
+    #- label: "Made Mistakes"
+     # icon: "fas fa-fw fa-link"
      # url: "https://mademistakes.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/thi_gautham"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Gth1205"
+      url: "https://github.com/thgautham"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/thi-gautham/"
+      url: "https://www.linkedin.com/in/thgautham/"
 
 
 # Site Footer
@@ -113,7 +113,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-    # url: "https://twitter.com/thgautham"
+      url: "https://twitter.com/thgautham"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Gth1205"
