@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Gautham Thirunavakkarasu"
 title_separator          : "|"
-subtitle                 : #"Product Manager"
+subtitle                 : "Product Manager"
 name                     : &name "Gautham Thirunavakkarasu" # &name is a YAML anchor which can be *referenced later
 description              : &description "A personal scratchpad for all things I find interest in - data, maths and science."
 url                      : https://www.thgautham.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -64,7 +64,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "@thgautham"
+  username               : "thgautham"
 facebook:
   username               : #&facebook "michaelrose"
   app_id                 :
@@ -99,7 +99,7 @@ author:
      # url: "https://mademistakes.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/thi_gautham"
+      url: "https://twitter.com/thgautham"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thgautham"
