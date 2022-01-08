@@ -20,7 +20,7 @@ url                      : https://www.thgautham.com # the base hostname & proto
 baseurl                  : #"/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "Gth1205/thgautham.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"/images/logo.png"
+logo                     : "/images/logo1.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -90,8 +90,8 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/images/bio-pic.jpg"
-  bio              : "Product, Data science and engineering."
+  avatar           : "/images/profile.jpg"
+  bio              : "I like to build things."
   location         : "San Francisco"
   links:
     #- label: "Made Mistakes"
