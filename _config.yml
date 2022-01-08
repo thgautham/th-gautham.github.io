@@ -94,9 +94,6 @@ author:
   bio              : "I like to build things."
   location         : "San Francisco"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/thgautham"
