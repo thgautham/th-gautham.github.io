@@ -4,8 +4,8 @@ main:
     url: /about/
   #- title: "Notebook"
     #url: /blog/
-  - title: "Portfolio"
-    url: /portfolio-page/
+  #- title: "Portfolio"
+    #url: /portfolio-page/
   - title: "Resume"
     url: /resume/
   # - title: "About"
