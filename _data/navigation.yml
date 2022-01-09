@@ -7,7 +7,7 @@ main:
   #- title: "Portfolio"
     #url: /portfolio-page/
   - title: "Resume"
-    url: /resume/
+    url: /assets/docs/Gautham_Resume.pdf
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
